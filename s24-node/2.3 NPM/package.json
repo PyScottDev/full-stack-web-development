@@ -1,0 +1,15 @@
+{
+  "name": "learning-first",
+  "version": "1.0.0",
+  "description": "my-first",
+  "license": "ISC",
+  "author": "Scott",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superheroes": "^4.0.0"
+  }
+}
